@@ -159,7 +159,7 @@ const AdminDashboard: React.FC<AdminDashboardProps> = ({ onLogout }) => {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <h1 className="font-playfair text-2xl font-bold text-gray-800">
-                Casa <span className="text-gold-600">Premium</span>
+                Impo<span className="text-gold-600">Rio</span>
               </h1>
               <span className="ml-4 px-3 py-1 bg-gold-100 text-gold-800 text-sm rounded-full font-poppins">
                 Admin
