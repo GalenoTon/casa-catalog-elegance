@@ -30,7 +30,7 @@ const AdminLogin: React.FC = () => {
         <div className="bg-white rounded-2xl shadow-2xl p-8">
           <div className="text-center mb-8">
             <h2 className="font-playfair text-3xl font-bold text-gray-800">
-              Casa <span className="text-gold-600">Premium</span>
+              Impo<span className="text-gold-600">Rio</span>
             </h2>
             <p className="mt-2 text-gray-600 font-inter">
               {isSignUp ? 'Criar Conta Admin' : 'Painel Administrativo'}
